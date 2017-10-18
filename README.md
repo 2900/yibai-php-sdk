@@ -26,5 +26,6 @@ try {
 ```
 
 # 注意事项
+ - 请使用php5.6或更高版本
  - PhpSmsApiSample.php为非sdk调用示例,仅供测试,实际使用推荐sdk调用
  - 详细api文档请参考https://www.100sms.cn/api1.0/document
