@@ -29,6 +29,11 @@ class YibaiClient
         return $this->execute((object) array(), '/sms/pullReply');
     }
 
+    public function userInfo()
+    {
+        return $this->execute((object) array(), '/user/get');
+    }
+
     protected function execute($request, $urlPath)
     {
         $request->apikey = $this->apikey;
