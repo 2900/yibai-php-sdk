@@ -4,7 +4,7 @@
 * 以下代码展示的是非sdk下的调用，只是为了方便用户测试而提供的样例代码，用户也可自行编写。
 * 正式环境建议使用sdk进行调用以提高效率，sdk中包含了使用样例
 */
-$response = postJson('https://sms.100sms.cn/api/sms/batchSubmit', json_encode(array(
+$response = postJson('https://xxxxxxxxxxxxx/api/sms/batchSubmit', json_encode(array(
     'apikey' => 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', // 修改为您的apikey
     'submits' => array(
         array(
