@@ -9,7 +9,7 @@
 
 require_once('YibaiSdk.php');
 
-$client = new YibaiClient('https://sms.100sms.cn/api', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
+$client = new YibaiClient('https://xxxxxx/api', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
 try {
     $response = $client->smsBatchSubmit(array(
