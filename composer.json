@@ -1,0 +1,11 @@
+{
+    "name": "mmkj/yibai",
+    "type": "library",
+    "authors": [
+        {
+            "name": "darren",
+            "email": "darren_ke@163.com"
+        }
+    ],
+    "require": {}
+}
