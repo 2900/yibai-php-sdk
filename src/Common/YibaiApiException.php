@@ -2,7 +2,7 @@
 namespace YiBai\Common;
 
 
-class YibaiApiException extends Exception
+class YibaiApiException extends \Exception
 {
 
 }
