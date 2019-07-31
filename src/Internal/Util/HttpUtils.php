@@ -1,5 +1,7 @@
 <?php
 
+namespace src\Internal\Util;
+
 class HttpUtils
 {
 

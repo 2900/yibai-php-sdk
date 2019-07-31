@@ -9,6 +9,6 @@
     ],
     "require": {},
     "autoload": {
-        "psr-4": { "YiBai\\": "yibai/" }
+        "psr-4": { "YiBai\\": "src/" }
     }
 }
