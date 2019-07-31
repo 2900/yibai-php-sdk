@@ -1,6 +1,9 @@
 <?php
 namespace YiBai;
 
+use YiBai\Internal\Util\HttpUtils;
+use YiBai\Common\YibaiApiException;
+
 class YibaiClient
 {
     public $serverUrl;
