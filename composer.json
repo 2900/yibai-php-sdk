@@ -4,8 +4,11 @@
     "authors": [
         {
             "name": "darren",
-            "email": "darren_ke@163.com"
+            "email": "darren9skz@163.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": { "YiBai\\": "yibai/" }
+    }
 }

@@ -1,7 +1,5 @@
 <?php
 
-require_once('YibaiSdk.php');
-
 $client = new YibaiClient('https://xxxxxxxxx/api', 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx');
 
 try {
