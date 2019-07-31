@@ -1,5 +1,5 @@
 <?php
-namespace src\Domain;
+namespace YiBai\Domain;
 
 class SmsSubmit
 {

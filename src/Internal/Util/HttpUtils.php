@@ -1,6 +1,6 @@
 <?php
 
-namespace src\Internal\Util;
+namespace YiBai\Internal\Util;
 
 class HttpUtils
 {

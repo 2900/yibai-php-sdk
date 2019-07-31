@@ -1,5 +1,5 @@
 <?php
-namespace src\Common;
+namespace YiBai\Common;
 
 
 class YibaiApiException extends Exception
