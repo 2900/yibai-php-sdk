@@ -1,8 +1,5 @@
 <?php
 
-require_once('internal/util/HttpUtils.php');
-require_once('common/YibaiApiException.php');
-
 class YibaiClient
 {
     public $serverUrl;
